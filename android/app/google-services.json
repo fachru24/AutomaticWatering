@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "716241446243",
+    "firebase_url": "https://apw-test-v00-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "apw-test-v00",
+    "storage_bucket": "apw-test-v00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716241446243:android:c18b06cfe39ff36c29df56",
+        "android_client_info": {
+          "package_name": "com.automatictesting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtYCj_GJiKShXT7bAbbt-CplzL1di3n7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
